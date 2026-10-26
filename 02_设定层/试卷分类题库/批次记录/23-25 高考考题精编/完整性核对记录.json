@@ -1,0 +1,36 @@
+{
+  "batch": "23-25 高考考题精编",
+  "complete": true,
+  "questions": 750,
+  "papers": 16,
+  "subquestion_groups": 881,
+  "source_files": 32,
+  "used_sources": 16,
+  "skipped_sources": 16,
+  "image_occurrences_verified": 11937,
+  "native_equations_verified": 2164,
+  "pdf_crop_segments_verified": 0,
+  "pdf_pages_independently_verified": 0,
+  "recorded_source_hashes_unchanged": true,
+  "source_files_modified": false,
+  "untracked_initial_source_hashes": 0,
+  "question_text_checks": "750题原文文字、11937处图片引用、2164个原生公式及来源文件哈希核对通过；本批无PDF。",
+  "visual_review": {
+    "method": "抽查8题的晶胞、电解装置、工艺流程、实验装置、平衡图像、能量图及有机合成路线；图片透明背景按白色阅读背景检查。公式另按原生XML与MathML核对。",
+    "questions": [
+      "P05-Q48",
+      "P07-Q23",
+      "P12-Q22",
+      "P13-Q36",
+      "P14-Q04",
+      "P15-Q01",
+      "P16-Q07",
+      "P16-Q40"
+    ]
+  },
+  "answer_only_questions": [],
+  "version_differences": [],
+  "batch_note": "本批为16份专题真题汇编，共750道整题，并非750道去重后的独立真题。不同专题中重复收录的真题保留各自原资料位置。目录名为23-25，原文件实际含少量2022年题，年份按原题保留。分类采用原资料专题及考法映射、题文规则细分和归类修正；相关标签可继续校正。原资料异常：\n- P03-Q09：原题未单列【答案】；原分析及“故选D”结论一并保留在原答案栏，未独立重解。\n- P04-Q29：原文第29题中插入“【答案】A”，之后又列“【答案】C”，并将选项D的部分内容错排到答案之后；原解析结论为C。所有原文字与公式保留，未独立校订。\n- P05-Q36：原文件本题后误附第37题的重复解析，该段已归入第37题保留。\n- P05-Q37：原文件第36题后错附本题一份重复解析；整理时归入本题，与第37题后的原解析同时保留。两处原答案均为C。\n- P05-Q85：原题为第85题，原参考答案行写成“5．A”；原分析结论也为A。按原文保留，未改写原答案行。",
+  "missing_source_answers": [],
+  "verified_at": "2026-10-07T11:30:34"
+}

@@ -1,0 +1,40 @@
+{
+  "batch": "2025.11.21版",
+  "complete": true,
+  "questions": 329,
+  "papers": 18,
+  "subquestion_groups": 377,
+  "source_files": 38,
+  "used_sources": 23,
+  "skipped_sources": 15,
+  "image_occurrences_verified": 5114,
+  "native_equations_verified": 10,
+  "pdf_crop_segments_verified": 336,
+  "pdf_pages_independently_verified": 67,
+  "recorded_source_hashes_unchanged": true,
+  "source_files_modified": false,
+  "untracked_initial_source_hashes": 12,
+  "question_text_checks": "逐题原文文字、图片及公式核对通过；PDF题目和答案裁图与原页面像素核对通过",
+  "visual_review": {
+    "source_pdf_pages_reviewed": 84,
+    "all_source_pdf_pages_reviewed": true,
+    "pdf_questions_reviewed": 92,
+    "method": "所有原PDF逐页联系图检查，92题题干及解析首尾裁图、跨页内容检查；有机合成原生Word图片浏览器抽查",
+    "corrected_graphic_boundaries": [
+      "P14-Q10/Q11晶胞图与题号交叠，矩形裁切排除相邻题文字",
+      "P15-Q08/Q09表格底线",
+      "P16-Q14/Q15阿司匹林结构图",
+      "P16-Q01/Q02答案BH3结构图",
+      "P18-Q05/Q06阿司匹林结构图",
+      "P18-Q08/Q09电池装置图"
+    ],
+    "word_images_checked_in_browser": [
+      "P01-Q19"
+    ]
+  },
+  "answer_only_questions": [],
+  "version_differences": [],
+  "batch_note": "38个来源文件已核对：23个作为18套试卷的题目或答案来源，12个同套原卷不重复入库。另2套华中师大一附中限时训练仅有原题、未找到答案，暂未入库；1份三轮复习及答题规范资料不属于试卷。双栏PDF、错序装订的考前测试已按原题号衔接；原卷共有的相对原子质量一并保留。长郡月考七第10题保留原答案及简短原因。",
+  "missing_source_answers": [],
+  "verified_at": "2026-10-06T19:58:08"
+}

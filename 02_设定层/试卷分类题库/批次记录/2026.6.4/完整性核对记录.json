@@ -1,0 +1,24 @@
+{
+  "batch": "2026.6.4",
+  "complete": true,
+  "questions": 138,
+  "papers": 5,
+  "subquestion_groups": 185,
+  "image_occurrences_verified": 2280,
+  "native_equations_verified": 145,
+  "all_source_hashes_unchanged": true,
+  "question_text_checks": "逐题原文文字和图片数量核对通过；PDF答案保留原图并核对跨页分段",
+  "visual_review": "已检查有机合成路线、专题公式及跨页PDF答案；全部8页答案PDF已查看",
+  "answer_only_questions": [
+    "P05-Q01",
+    "P05-Q02",
+    "P05-Q03",
+    "P05-Q07",
+    "P05-Q12",
+    "P05-Q15",
+    "P05-Q16",
+    "P05-Q17",
+    "P05-Q18"
+  ],
+  "verified_at": "2026-10-06T20:03:14"
+}

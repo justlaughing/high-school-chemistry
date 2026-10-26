@@ -1,0 +1,56 @@
+{
+  "batch": "2026.5.8",
+  "complete": true,
+  "questions": 108,
+  "papers": 6,
+  "subquestion_groups": 166,
+  "source_files": 12,
+  "used_sources": 10,
+  "skipped_sources": 2,
+  "image_occurrences_verified": 1402,
+  "native_equations_verified": 0,
+  "pdf_crop_segments_verified": 262,
+  "pdf_pages_independently_verified": 56,
+  "recorded_source_hashes_unchanged": true,
+  "source_files_modified": false,
+  "untracked_initial_source_hashes": 2,
+  "question_text_checks": "逐题原文文字、图片及公式核对通过；PDF题目和答案裁图与原页面像素核对通过",
+  "visual_review": {
+    "previous_review": "逐页查看四套原卷34页及四套解析23页（雅礼末页空白），核对题材题序与旧批分类。雅礼第8题与长郡第3、7题的选项顺序不同，已标注；A佳第5题保留原PDF答案与旧完整解析版差异。长郡跨物理页题目、答案浮动结构图及A佳第5/6题表格交界已核对。浏览器检查长郡第12题结构图完整显示。",
+    "shared_data_rechecked": "补齐各题卷首原子质量表，Word原生内容、PDF原图裁片保留"
+  },
+  "answer_only_questions": [],
+  "version_differences": [
+    {
+      "question": "P03-Q08",
+      "current_pdf_answer": "D",
+      "previous_full_answer": "C",
+      "previous_key": "2026.5.28:P01-Q08",
+      "reason": "本批PDF第8题的C、D选项与2026.5.28完整解析版对调。本批答案D对应旧版答案C的同一选项，属于选项顺序差异；两版分别保留。"
+    },
+    {
+      "question": "P05-Q03",
+      "current_pdf_answer": "B",
+      "previous_full_answer": "A",
+      "previous_key": "2026.5.28:P08-Q03",
+      "reason": "本批PDF第3题的A、B选项与2026.5.28完整解析版对调。本批答案B与旧版答案A均指在铁制品上镀铜，属于选项顺序差异；两版分别保留。"
+    },
+    {
+      "question": "P05-Q07",
+      "current_pdf_answer": "B",
+      "previous_full_answer": "A",
+      "previous_key": "2026.5.28:P08-Q07",
+      "reason": "本批PDF第7题的A、B选项与2026.5.28完整解析版对调。本批答案B与旧版答案A均指空间结构为直线形的选项，属于选项顺序差异；两版分别保留。"
+    },
+    {
+      "question": "P06-Q05",
+      "current_pdf_answer": "A",
+      "previous_full_answer": "B",
+      "previous_key": "2026.5.28:P06-Q05",
+      "reason": "同套资料答案存在差异：本批PDF为A，2026.5.28完整解析版为B。两版均按原文保留，未判定正误。"
+    }
+  ],
+  "batch_note": "雅礼、师大、长郡、A佳四套与2026.5.28存在同套内容，题序及知识点核对后沿用分类。因原PDF排版、选项次序或答案内容有差异，作为来源版本分别保留；不把答案字母差异一概认定为答案冲突。",
+  "missing_source_answers": [],
+  "verified_at": "2026-10-06T20:03:09"
+}

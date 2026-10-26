@@ -1,0 +1,17 @@
+{
+  "status": "通过",
+  "papers": 6,
+  "questions": 108,
+  "subquestion_groups": 138,
+  "source_texts_preserved_with_semantic_math_order": true,
+  "image_occurrences": 2138,
+  "unique_display_images": 1407,
+  "native_math_occurrences": 204,
+  "semantic_delimiter_glyphs": 6,
+  "semantic_root_degree_reordering": 3,
+  "links_checked": 4097,
+  "source_documents_unchanged": true,
+  "errors": [],
+  "shared_atomic_masses_restored": true,
+  "content_recheck_after_restoration": "108题文字、图序、原生公式及来源哈希通过"
+}

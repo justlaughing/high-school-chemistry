@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.writing
+运行状态.json
+*.log
+.tmp.*/

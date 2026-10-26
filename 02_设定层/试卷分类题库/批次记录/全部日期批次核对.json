@@ -1,0 +1,98 @@
+{
+  "status": "通过",
+  "date_folders": [
+    {
+      "batch": "2026.6.13",
+      "papers": 6,
+      "questions": 108,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.6.4",
+      "papers": 5,
+      "questions": 138,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.5.28",
+      "papers": 10,
+      "questions": 182,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.5.8",
+      "papers": 6,
+      "questions": 108,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.5.6 以长郡5月劳动节假期试卷为主",
+      "papers": 30,
+      "questions": 336,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.3.9",
+      "papers": 12,
+      "questions": 216,
+      "status": "完成"
+    },
+    {
+      "batch": "2026.1.10",
+      "papers": 14,
+      "questions": 264,
+      "status": "完成"
+    },
+    {
+      "batch": "2025.11.21版",
+      "papers": 18,
+      "questions": 329,
+      "status": "完成"
+    }
+  ],
+  "papers": 101,
+  "questions": 1681,
+  "subquestion_groups": 2158,
+  "taxonomy_nodes": 226,
+  "live_catalog_matches_completed_batches": true,
+  "question_file_paths_valid": true,
+  "taxonomy_paths_valid": true,
+  "open_command_checks_latest_catalog_and_reuses_running_service": true,
+  "computer_restart_required": false,
+  "missing_original_answers": [
+    "2026.5.28:P10-Q14"
+  ],
+  "answerless_source_files": [
+    {
+      "batch": "2026.1.10",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2026.1.10\\上海市格致中学2024-2025学年高三下学期第一次测验 化学试题.pdf",
+      "reason": "逐页检查完整PDF，仅有题干未附答案；本文件夹未找到对应解析，按只整理有答案试卷的要求未入库"
+    },
+    {
+      "batch": "2026.1.10",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2026.1.10\\上海格致中学2025-2026学年高三上学期第二次检测试化学试题.pdf",
+      "reason": "逐页检查完整PDF，仅有题干未附答案；本文件夹未找到对应解析，按只整理有答案试卷的要求未入库"
+    },
+    {
+      "batch": "2026.1.10",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2026.1.10\\北京市中国人民大学附属中学2026届高三上学期12月月考化学试题.pdf",
+      "reason": "逐页检查完整PDF，仅有题干未附答案；本文件夹未找到对应解析，按只整理有答案试卷的要求未入库"
+    },
+    {
+      "batch": "2026.1.10",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2026.1.10\\湖南省长沙市雅礼中学2025-2026学年高三上学期1月月考化学试题.pdf",
+      "reason": "逐页检查完整PDF，仅有题干未附答案；本文件夹未找到对应解析，按只整理有答案试卷的要求未入库"
+    },
+    {
+      "batch": "2025.11.21版",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2025.11.21版\\湖北省武汉市华中师大一附中2025届高三下学期五月限时训练（月考）化学试卷.pdf",
+      "reason": "逐页检查8页，仅原题无参考答案，按只找答案要求暂不入库"
+    },
+    {
+      "batch": "2025.11.21版",
+      "source": "D:\\高中化学\\01_资料层\\高中试卷\\2025.11.21版\\湖北省武汉市华中师范大学第一附属中学2025届高三下学期3月月考化学试卷.pdf",
+      "reason": "逐页检查8页，仅原题无参考答案，按只找答案要求暂不入库"
+    }
+  ],
+  "verified_at": "2026-10-06T20:06:46"
+}

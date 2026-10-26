@@ -1,0 +1,91 @@
+{
+  "passed": true,
+  "tested": 180,
+  "brokenImages": 0,
+  "textMismatches": [],
+  "mathMismatches": [],
+  "tableMismatches": [],
+  "benchmarks": [
+    {
+      "key": "2025.11.21版:P01-Q10",
+      "originalMs": 41.1,
+      "packedFirstMs": 65.4,
+      "packedRepeatMs": 8.3
+    },
+    {
+      "key": "2026.1.10:P01-Q13",
+      "originalMs": 40.1,
+      "packedFirstMs": 193.4,
+      "packedRepeatMs": 9
+    },
+    {
+      "key": "2026.3.9:P02-Q06",
+      "originalMs": 23.2,
+      "packedFirstMs": 51.7,
+      "packedRepeatMs": 7.8
+    },
+    {
+      "key": "2026.5.28:P01-Q11",
+      "originalMs": 47.2,
+      "packedFirstMs": 78.7,
+      "packedRepeatMs": 9.7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q01",
+      "originalMs": 14.7,
+      "packedFirstMs": 18.2,
+      "packedRepeatMs": 9.4
+    },
+    {
+      "key": "2026.5.8:P01-Q05",
+      "originalMs": 35.4,
+      "packedFirstMs": 16.1,
+      "packedRepeatMs": 8.6
+    },
+    {
+      "key": "2026.6.13:P01-Q11",
+      "originalMs": 24.9,
+      "packedFirstMs": 15.5,
+      "packedRepeatMs": 7.9
+    },
+    {
+      "key": "2026.6.4:P01-Q02",
+      "originalMs": 14.2,
+      "packedFirstMs": 11.6,
+      "packedRepeatMs": 6.2
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q12",
+      "originalMs": 15.4,
+      "packedFirstMs": 13.7,
+      "packedRepeatMs": 5.9
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q16",
+      "originalMs": 239.7,
+      "packedFirstMs": 135.1,
+      "packedRepeatMs": 13.5
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q17",
+      "originalMs": 39.2,
+      "packedFirstMs": 30.8,
+      "packedRepeatMs": 14.6
+    },
+    {
+      "key": "2026.6.4:P01-Q64",
+      "originalMs": 59.4,
+      "packedFirstMs": 31.4,
+      "packedRepeatMs": 9.9
+    }
+  ],
+  "environment": "本机127.0.0.1；浏览器会话首次读取及同会话复读；非公网测速",
+  "timingSummary": {
+    "samples": 12,
+    "originalMedianMs": 39.2,
+    "packedFirstMedianMs": 31.4,
+    "packedRepeatMedianMs": 9,
+    "packedFirstP95Ms": 193.4
+  },
+  "serverMode": "无Range，整包读取并复用"
+}

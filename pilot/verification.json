@@ -1,0 +1,1814 @@
+{
+  "verified": true,
+  "verifiedReadingFiles": 132,
+  "verifiedAssetByteHashes": 3118,
+  "noopRewrittenFiles": 0,
+  "singleQuestionChangedFiles": [
+    "manifest.json",
+    "questions/72b7d9890529-3.json"
+  ],
+  "restoredAllOutputHashes": true,
+  "contentRoundTripQuestions": 180,
+  "evidence": [
+    {
+      "key": "2025.11.21版:P01-Q10",
+      "path": "化学实验基础/探究性实验/化学实验方案的设计与评价/2025.11.21版/P01-Q10_滴定与无水氯化镁制备方案.html",
+      "htmlSha256": "7753f5b85d46f3157cb6beb24b95b7c1bb5142236cf01c2ef07ac1fd8d62feeb",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P02-Q05",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2025.11.21版/P02-Q05_矿物中元素的周期规律.html",
+      "htmlSha256": "2f3e0c42f99c8b1cb86161590edb7fc7b5be74a6048a41dc40978523ff002411",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P03-Q11",
+      "path": "化学实验基础/探究性实验/化学实验探究/2025.11.21版/P03-Q11_浓盐酸性质的点滴板实验.html",
+      "htmlSha256": "4104c9e81414fc961f1e8aeb92a2c98217009e199fcd1f199f98b675abb7e8a6",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P05-Q08",
+      "path": "常见无机物及其应用/铁及其化合物/铁的其他化合物/2025.11.21版/P05-Q08_绿矾热分解的热重曲线.html",
+      "htmlSha256": "eee1b884ece86f67ecbbd1cb20006089b04f79dfb2019fa856168bcde93bb05b",
+      "images": 10,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P05-Q10",
+      "path": "认识化学科学/物质的量/物质的量及单位——摩尔/2025.11.21版/P05-Q10_吸收二氧化碳后的滴定曲线.html",
+      "htmlSha256": "7d1d8e36b5a98abd570c926e6193373a9795f760fc92b291137512d86ccf5831",
+      "images": 44,
+      "uniqueImages": 24,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P07-Q11",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2025.11.21版/P07-Q11_锰氧化物晶胞与氧空位.html",
+      "htmlSha256": "7c4131a4bbf426dc3c125f51b83cf9ca096ba6c812b3716d3f673e42baab78ed",
+      "images": 22,
+      "uniqueImages": 14,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P07-Q15",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2025.11.21版/P07-Q15_二氯化一氯五氨合钴制备.html",
+      "htmlSha256": "02be9adaf5fa98bb4e460cd38ccb019e274801b3d088986345c581e8d5befa9a",
+      "images": 87,
+      "uniqueImages": 55,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 5
+    },
+    {
+      "key": "2025.11.21版:P07-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2025.11.21版/P07-Q16_含镍废料回收钴镍盐.html",
+      "htmlSha256": "cafedc8f7c29a9a1a505036de4a9f8363c8e3e4d44525958c9b1bd792c6768ae",
+      "images": 55,
+      "uniqueImages": 44,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2025.11.21版:P08-Q08",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2025.11.21版/P08-Q08_前30号元素的配离子推断.html",
+      "htmlSha256": "5d8a58005a7353757b7d6aababea7b31c10add36fb8187d2dc128e6f3565c0e0",
+      "images": 30,
+      "uniqueImages": 16,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P08-Q18",
+      "path": "有机化学基础/有机物的合成与推断/2025.11.21版/P08-Q18_含六元环高分子合成.html",
+      "htmlSha256": "31aaa377ea990bf00016cc9fb745ea1da4a80748bd9ac0ee3cb6b812b698d196",
+      "images": 49,
+      "uniqueImages": 29,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2025.11.21版:P09-Q13",
+      "path": "物质结构与性质/分子结构与性质/配合物/2025.11.21版/P09-Q13_铜氨溶液制备与脱硝.html",
+      "htmlSha256": "a1da4d0ebbf32819acfc3c29de6acaa72ba1aaafc78eecced28159e5e97ae99f",
+      "images": 27,
+      "uniqueImages": 13,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P09-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2025.11.21版/P09-Q18_合成气与光催化制甲醇.html",
+      "htmlSha256": "15eb0cd0c86a9055b0c5f7401e1b54b9fdc4241896388f19cb60a45617c2721c",
+      "images": 84,
+      "uniqueImages": 67,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 4
+    },
+    {
+      "key": "2025.11.21版:P10-Q02",
+      "path": "认识化学科学/化学用语/2025.11.21版/P10-Q02_杂化模型红外与乙炔键.html",
+      "htmlSha256": "dd6d51116cf5fbc8f2bd4cfc7af66e4fc461d6c383aebaf02a8e22bd881d95b7",
+      "images": 11,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P10-Q09",
+      "path": "物质结构与性质/分子结构与性质/配合物/2025.11.21版/P10-Q09_钡改性氮化石墨催化剂.html",
+      "htmlSha256": "01d34d619db99af5958db18e006d90ca623d7e64c3aaaefdfa58500db23ed1bd",
+      "images": 13,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P11-Q08",
+      "path": "有机化学基础/有机物的合成与推断/2025.11.21版/P11-Q08_抗生素中间体的合成机理.html",
+      "htmlSha256": "73cc97a04b68adea6d09f3a032f3b0373e5649de5f76ecd2668cad3e8a761d85",
+      "images": 13,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P12-Q12",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2025.11.21版/P12-Q12_阴离子面心堆积晶胞.html",
+      "htmlSha256": "4dfdf9afbc905862d96aaa02a425620d5aeb3ada4bce483f657d13dc64e4e13d",
+      "images": 19,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P12-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2025.11.21版/P12-Q16_稀土回收与氧化铈氧空位.html",
+      "htmlSha256": "fe5b323ba863f5a6cea72d30d25a43b35edf71f1093c3521eee658e24778b29c",
+      "images": 93,
+      "uniqueImages": 64,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2025.11.21版:P12-Q17",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2025.11.21版/P12-Q17_高纯硅制备与太阳能电解.html",
+      "htmlSha256": "2c94543cdf3f8545c442a0f3ded82e2bb7f67da94684baaeb00f838a6294c7ca",
+      "images": 78,
+      "uniqueImages": 66,
+      "mathml": 10,
+      "tables": 0,
+      "subquestions": 5
+    },
+    {
+      "key": "2025.11.21版:P13-Q09",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2025.11.21版/P13-Q09_含氮卤素物质的价类图.html",
+      "htmlSha256": "15baa1cc7cc556070d3402b43b9562493a76c80489d49c5e4d390666e020866c",
+      "images": 15,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2025.11.21版:P15-Q03",
+      "path": "化学实验基础/探究性实验/化学实验方案的设计与评价/2025.11.21版/P15-Q03_食盐侯氏制碱与滴定装置.html",
+      "htmlSha256": "ecc481d15064df21e5b35b3d5158c9c9d62de9cd517554d62d4a5e3b3e3ba547",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P01-Q13",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.1.10/P01-Q13_硫化锌充电中的晶胞转化.html",
+      "htmlSha256": "cf58952d254d94720c3ff642002503e25a6fecd474e792e6e10c983d9a6d1c35",
+      "images": 19,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P02-Q07",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.1.10/P02-Q07_卤化氢制备与钡餐类比.html",
+      "htmlSha256": "d451c0071282ee521d222daa9e2fca0747dc427aa7159d53a4da107c17c29017",
+      "images": 17,
+      "uniqueImages": 15,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P02-Q12",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/2026.1.10/P02-Q12_甲酸竞争分解与水气变换.html",
+      "htmlSha256": "0dc09befa35bb12e7a5cc29b43b3d3f925b5bcc8bfd4ebc0dd3436d10f6782ce",
+      "images": 9,
+      "uniqueImages": 7,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P02-Q19",
+      "path": "化学实验基础/探究性实验/化学实验探究/2026.1.10/P02-Q19_硫化钠空气氧化产物探究.html",
+      "htmlSha256": "2b7584bfbb3dcc240c7e6248da8e2686582e7cc6850b967bfbe22d44bc44e7c4",
+      "images": 110,
+      "uniqueImages": 47,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "2026.1.10:P03-Q02",
+      "path": "有机化学基础/烃的衍生物/糖类/2026.1.10/P03-Q02_糖核苷酸与蛋白质性质.html",
+      "htmlSha256": "eb874b939a8374f02c23d9f2d7f6c1e9422481052081ca7069235a521028380e",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P03-Q14",
+      "path": "物质结构与性质/分子结构与性质/配合物/2026.1.10/P03-Q14_钴氨配离子制备与脱氮.html",
+      "htmlSha256": "0ac9bfb816dc4d4cbb870892cac0512aaeff70b5587575868a80f5c359fda960",
+      "images": 44,
+      "uniqueImages": 12,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P03-Q16",
+      "path": "化学反应原理/电解池/2026.1.10/P03-Q16_二氧化氯电解制备与保存.html",
+      "htmlSha256": "9404a5f44fe6867964772f52a6e8d6fdd21cfd3b4690477cfcda854ea37a66d2",
+      "images": 121,
+      "uniqueImages": 28,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 3
+    },
+    {
+      "key": "2026.1.10:P03-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.1.10/P03-Q17_氯氮平合成与氨基反应.html",
+      "htmlSha256": "c9d6a0fb2e075fe7aed6b75e8ef428899284ca7773ca6c6cc512e910caab1ed8",
+      "images": 56,
+      "uniqueImages": 36,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.1.10:P03-Q18",
+      "path": "化学实验基础/物质的分离、提纯/2026.1.10/P03-Q18_石煤提钒萃取与纯度测定.html",
+      "htmlSha256": "60c9a0cb45019e7ead155216565046a6a231d4190f35d80ac7cfeae365c96681",
+      "images": 87,
+      "uniqueImages": 54,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.1.10:P03-Q19",
+      "path": "化学反应原理/金属的电化学腐蚀与防护/2026.1.10/P03-Q19_锌铁电池的腐蚀保护探究.html",
+      "htmlSha256": "b95459217489976474f728e6bf9579ec66f7ea43a6e11884703382635e401189",
+      "images": 109,
+      "uniqueImages": 37,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "2026.1.10:P04-Q15",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.1.10/P04-Q15_钙钛矿太阳能材料与防潮.html",
+      "htmlSha256": "1de5340fbc0a4ad7845b015d6723bb1e382edc5e8b26194022b723909b4d1ebc",
+      "images": 115,
+      "uniqueImages": 45,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 4
+    },
+    {
+      "key": "2026.1.10:P04-Q19",
+      "path": "化学实验基础/探究性实验/化学实验探究/2026.1.10/P04-Q19_镁与醋酸反应的主要微粒.html",
+      "htmlSha256": "fb157a6e5df7a600b7fa4960c38d12e082713bc17bc6ba5d4d4f8ccf2165d4b8",
+      "images": 80,
+      "uniqueImages": 37,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.1.10:P05-Q07",
+      "path": "认识化学科学/氧化还原反应/氧化还原反应基本概念/2026.1.10/P05-Q07_氧化还原导致酸度改变.html",
+      "htmlSha256": "86d25f256a4f014754be5a6040a3296fac4826ab51355e7eefc0c5a0cafab95a",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P05-Q16",
+      "path": "常见无机物及其应用/氮族元素及其化合物/氮的氧化物/2026.1.10/P05-Q16_氮循环与工业循环水污染.html",
+      "htmlSha256": "13f7537bf1958daed8f3e4d4c6923fbed2356f8eb6cd9bf925baff60a65d9bbf",
+      "images": 34,
+      "uniqueImages": 12,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 4
+    },
+    {
+      "key": "2026.1.10:P06-Q01",
+      "path": "物质结构与性质/晶体结构与性质/常见几种晶体类型/2026.1.10/P06-Q01_石墨和晶体导电性.html",
+      "htmlSha256": "12532720ac6c6939e1af3db01a7d17e249af42721e74c71b12da3484c34e282c",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P07-Q04",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期表/2026.1.10/P07-Q04_锂的周期性质与原子光谱.html",
+      "htmlSha256": "0d1a0b3a395a8f0770ad1ee701f7c262cb52e9863fb92121fbcb6684afcdae6e",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P09-Q17",
+      "path": "认识化学科学/离子反应/离子反应及离子方程式/离子方程式的书写/2026.1.10/P09-Q17_元素化合物反应式综合填空.html",
+      "htmlSha256": "30e5ded203ae6cc64aba1c2048c97511e45d89994c9dd8badd370d961384447c",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 5
+    },
+    {
+      "key": "2026.1.10:P11-Q13",
+      "path": "化学反应原理/电解池/2026.1.10/P11-Q13_电化学氮杂环丙烷化.html",
+      "htmlSha256": "6611e29eb027edf94e672fe8136937cfb0ab1c75c00fbaceee7d36f03dc7b027",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.1.10:P12-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.1.10/P12-Q16_废锂电池氯化回收锂钴.html",
+      "htmlSha256": "3ac1ddba7bf81781db800884167cd6dd9d4b5e24d51125f86273a369904dafae",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.1.10:P14-Q10",
+      "path": "有机化学基础/合成有机高分子化合物/合成有机高分子的基本方法/2026.1.10/P14-Q10_全固态电解质聚合物合成.html",
+      "htmlSha256": "38706abf0ad47c8ffaaa137dc1ce4ccf646bdf292bd5884b38fe7ba3e2d1a981",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P02-Q06",
+      "path": "物质结构与性质/原子结构 化学键/分子间作用力/2026.3.9/P02-Q06_磷脂聚乙炔与冰的结构性质.html",
+      "htmlSha256": "967cee40c65abe190316e2fb919ce0ca4031ca9943cc7bccff7397e0beae0a16",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P02-Q08",
+      "path": "物质结构与性质/分子结构与性质/分子的构型及相关理论/2026.3.9/P02-Q08_氢键键角与酸性解释.html",
+      "htmlSha256": "1d3c256f0d2761ce5e21d8ac815e2306d0409087a5c6a2c880e5cf1000ae3e33",
+      "images": 13,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P02-Q18",
+      "path": "有机化学基础/有机物的合成与推断/2026.3.9/P02-Q18_开瑞坦前体的多步合成.html",
+      "htmlSha256": "ed0cda802572efbcf27ba923d51917a3259cafa727c6611fcfae4157078ddbf7",
+      "images": 53,
+      "uniqueImages": 38,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.3.9:P03-Q01",
+      "path": "常见无机物及其应用/金属资源的开发与金属材料/金属通性/2026.3.9/P03-Q01_古代饮食器具的材料类别.html",
+      "htmlSha256": "6cad5dea077d4da9c5e41cde2787cbe9326da1ece21a6dc363517187bfadced0",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P03-Q03",
+      "path": "化学实验基础/仪器使用与实验安全/2026.3.9/P03-Q03_钠氯水氧化剂与氢氟酸保存.html",
+      "htmlSha256": "88fd55632c3db173490da69d03691d4e6f9e72d6f3fee1bdc8b26a5171a3f2f7",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P03-Q11",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/2026.3.9/P03-Q11_硼氢化钠催化水解制氢.html",
+      "htmlSha256": "ac77157a01f513acc8b20d590a089a7b1a3bdf1f18b2219fc29c7fd4b3d993b3",
+      "images": 22,
+      "uniqueImages": 18,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P03-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.3.9/P03-Q16_废加氢催化剂的多金属回收.html",
+      "htmlSha256": "6dd86fbcdc43cc9b42ddfe66d0c307a74b6318d52cdb0b1d1bafa048f8ec8e68",
+      "images": 77,
+      "uniqueImages": 50,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.3.9:P04-Q11",
+      "path": "化学实验基础/探究性实验/化学实验探究/2026.3.9/P04-Q11_碱性溶液中铜的存在形式.html",
+      "htmlSha256": "bb863e6034e5835ed9cb39d85d4ec9f78b96ff24105cad48dd8d598d1825f368",
+      "images": 10,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P04-Q17",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.3.9/P04-Q17_尾气处理乙醇制氢与光燃料电池.html",
+      "htmlSha256": "c4228d2404e81d4016804aa63aafb80c034a5705436f09852e3aa7a840c7c49e",
+      "images": 84,
+      "uniqueImages": 52,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.3.9:P06-Q06",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.3.9/P06-Q06_沉淀产气与导电性图像.html",
+      "htmlSha256": "ee5933c364188577dce8a0983606fb48aba7f5de9e78d4d4786d3ec5e9d5d598",
+      "images": 32,
+      "uniqueImages": 17,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P07-Q05",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/2026.3.9/P07-Q05_黑火药硫结构与粒子计数.html",
+      "htmlSha256": "c75905d1415012f0e6b862177a27f64221d736739e8b033bb1f230bc101e3f87",
+      "images": 33,
+      "uniqueImages": 19,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P10-Q11",
+      "path": "化学反应原理/原电池/2026.3.9/P10-Q11_锌铜电池电动势与离子浓度.html",
+      "htmlSha256": "859e30e0c8dcc9e6b4b391a7e26b8575caff52b256458ce3a5f89a8e79f93197",
+      "images": 6,
+      "uniqueImages": 5,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P10-Q15",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.3.9/P10-Q15_硼氢化钠制备索氏提纯与碘量法.html",
+      "htmlSha256": "14185535608eaac929061d93731bd80a395a21d333d973a84d83d0ef16ead586",
+      "images": 100,
+      "uniqueImages": 60,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.3.9:P10-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.3.9/P10-Q16_铜阳极泥金银铂回收及胆矾热重.html",
+      "htmlSha256": "16191b6c660cadfb9f30f753945ecf37874ed673ce269866579dd1ddf5d960d4",
+      "images": 71,
+      "uniqueImages": 51,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.3.9:P11-Q04",
+      "path": "认识化学科学/离子反应/离子反应及离子方程式/离子方程式的书写/2026.3.9/P11-Q04_废气吸收铜氨与溴乙酸反应.html",
+      "htmlSha256": "3c7af09aaeb254c92fffaf59e842e3e40f26b14031c96377020fa5d87937be12",
+      "images": 13,
+      "uniqueImages": 13,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P11-Q12",
+      "path": "化学反应原理/原电池/2026.3.9/P11-Q12_储氯电池与电化学脱盐.html",
+      "htmlSha256": "3450a2bc68586486f05f17ba405584102229aa7e7dcca7fad69a1d0dab858b65",
+      "images": 26,
+      "uniqueImages": 16,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P11-Q14",
+      "path": "物质结构与性质/分子结构与性质/配合物/2026.3.9/P11-Q14_铜配离子与三元酸的分布曲线.html",
+      "htmlSha256": "9718213c509f19be95dd1e66bf06b0ad42b041b4fbc6bb97f0586e89a5d12cce",
+      "images": 63,
+      "uniqueImages": 54,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P11-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.3.9/P11-Q16_含铯废渣萃取制金属铯.html",
+      "htmlSha256": "6ea4cabf99f70c9df80a15a2ce0b2f3996b73f14c2f5406a174fc38322e67318",
+      "images": 74,
+      "uniqueImages": 32,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.3.9:P12-Q07",
+      "path": "物质结构与性质/原子结构 化学键/分子间作用力/2026.3.9/P12-Q07_三环氮杂冠醚结合铵根.html",
+      "htmlSha256": "bef12d33926718d3773c1fab2e12dda937782b23a094cf8a943f1f3e35a031a7",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.3.9:P12-Q11",
+      "path": "化学实验基础/物质的分离、提纯/2026.3.9/P12-Q11_废铂铼催化剂的回收流程.html",
+      "htmlSha256": "9c2a178f9f49d7b23af122c69a38a2fa11581e4807574b1aaa72aac65c272f06",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P01-Q11",
+      "path": "化学实验基础/探究性实验/化学实验探究/2026.5.28/P01-Q11_盐溶液对铁硫氰配位平衡的影响.html",
+      "htmlSha256": "3ef9bcf3fb0f1a5c11bbd607d91e1b8a34426addb3356dee181dbdaefe2a3cb7",
+      "images": 17,
+      "uniqueImages": 14,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P03-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.28/P03-Q17_抗流感药中间体与氨基保护.html",
+      "htmlSha256": "167a4cf00dbcaeca6c948a0cb6d3d50571409e6ad3e57175903519c8e8fa330f",
+      "images": 29,
+      "uniqueImages": 24,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.28:P04-Q02",
+      "path": "认识化学科学/化学用语/2026.5.28/P04-Q02_电子式氢键与轨道图示.html",
+      "htmlSha256": "47c7bd59c77cced360fb5c9a968d7932c1c36d43ba03474a1cd1e609751e363e",
+      "images": 8,
+      "uniqueImages": 7,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P05-Q09",
+      "path": "化学反应原理/电解池/2026.5.28/P05-Q09_电化学间接除氮废水.html",
+      "htmlSha256": "9aed36b3c0902bc9d3fa4bdb735442e406354b94d44f650917492fbc6cac94e7",
+      "images": 21,
+      "uniqueImages": 14,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P05-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.28/P05-Q18_二氧化碳制甲醇及电还原.html",
+      "htmlSha256": "8be79018e2f63710fcf50a7d129e2c60cb8f600e67e721548477cc1ae688c7af",
+      "images": 88,
+      "uniqueImages": 61,
+      "mathml": 22,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.28:P06-Q12",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.5.28/P06-Q12_普鲁士蓝配位晶胞.html",
+      "htmlSha256": "b74f5d65ac2b6dd9907192e91d73235bd70cfb78b34f794166de6ca74364b659",
+      "images": 46,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P06-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.28/P06-Q16_黄铁矿制硫酸镍并回收钴.html",
+      "htmlSha256": "1bbd3adadc8fda16c305a39fe1ed7ac98948c44c4a7c00d5bf0b7d02f00dc947",
+      "images": 35,
+      "uniqueImages": 24,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.28:P06-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.28/P06-Q18_天然气硫化氢脱除与催化结构.html",
+      "htmlSha256": "6a0c7368d89b8570defedd9c010a4a843c16b19aa7029374aececf12b59b4ea2",
+      "images": 102,
+      "uniqueImages": 74,
+      "mathml": 4,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.28:P07-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.28/P07-Q01_机器人材料分类.html",
+      "htmlSha256": "752d1ac13e11a059ec9f277bfaecc0094ada2812031a86831b9bf86d2ba66e2e",
+      "images": 10,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P07-Q03",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/2026.5.28/P07-Q03_王水溶金中的粒子计数.html",
+      "htmlSha256": "7d160eab948d50627fb79a203a93535702b2920e76a92611c7c0672d55bea80b",
+      "images": 34,
+      "uniqueImages": 31,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P07-Q05",
+      "path": "化学实验基础/仪器使用与实验安全/2026.5.28/P07-Q05_滴定配液和启普发生器.html",
+      "htmlSha256": "e2e41c98b528d3deda2c2298ec8e34d96a82f4ea1d456190ddbaf0070685e020",
+      "images": 10,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P07-Q11",
+      "path": "常见无机物及其应用/氧族元素及其化合物/硫酸/2026.5.28/P07-Q11_接触法制硫酸结构与条件.html",
+      "htmlSha256": "7b3515693a1511d1e40b4582064a4804f144e87609ff04dbd3cc1dfd5fa294af",
+      "images": 10,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P07-Q14",
+      "path": "化学反应原理/水的电离及溶液的酸碱性/酸碱中和滴定/2026.5.28/P07-Q14_混合酸与铵盐的滴定曲线.html",
+      "htmlSha256": "dab9256ca05400f611d54c3245a9f75b9bea108aaacf7ee379b926d4cf015ad2",
+      "images": 39,
+      "uniqueImages": 34,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P07-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.28/P07-Q16_废镍钼催化剂的分离回收.html",
+      "htmlSha256": "1de0252e32dd199e83b5d79803ac6a92e93c68df94b20fe1a42d3599c04d5558",
+      "images": 111,
+      "uniqueImages": 71,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.28:P07-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.28/P07-Q18_丙烷脱氢与碘甲烷热裂解.html",
+      "htmlSha256": "6c6ec78d60d8a078754addca6b10994aa9b6cd62fb1fb19773cdfe8214ac09e6",
+      "images": 129,
+      "uniqueImages": 99,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.28:P08-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.28/P08-Q17_药物前体T的环化与羰基保护.html",
+      "htmlSha256": "29911fbab32fbbb63794d97c2828dffdf805febcba19ad1957e6dc726e2d588b",
+      "images": 68,
+      "uniqueImages": 27,
+      "mathml": 4,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.28:P08-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.28/P08-Q18_二氧化碳制二甲醚及电合成.html",
+      "htmlSha256": "95bd39044af518d1c38d801477f4fa6a182bf26d1014384d05b5789f58597e0a",
+      "images": 70,
+      "uniqueImages": 48,
+      "mathml": 21,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.28:P10-Q03",
+      "path": "化学反应原理/化学平衡/化学平衡状态/2026.5.28/P10-Q03_胶体周期律与平衡基本概念.html",
+      "htmlSha256": "704469e085d773f69c189b553132a62f842118e7010ad9a9b8671a6d0313137b",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P10-Q15",
+      "path": "化学反应原理/化学平衡/化学平衡图像/2026.5.28/P10-Q15_碳酸盐分布与镁沉淀图像.html",
+      "htmlSha256": "308475e2b9251e8e46205fac9c2c9ec383d16f5468d935bdb4bc75657a9ddec7",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.28:P10-Q17",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.28/P10-Q17_阳极泥回收银金铂与顺铂.html",
+      "htmlSha256": "95c7a8c38cc99ca635aa14e592befc7205f92ec14766b3f2f98c734ed5f1bc73",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 1,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q01_掺钪光催化制氢与燃煤污染.html",
+      "htmlSha256": "be6ae83da664e72f96ca91949b97f0b040473f7d7eec7dff832176e69e12d8a2",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 8,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q05",
+      "path": "认识化学科学/物质的分类及转化/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q05_钠氮铁氯物质的一步转化.html",
+      "htmlSha256": "5f5ea3d2003f34b461e6325edf4d0b11bdea5a2d1be7eedb3291b22a5e93e874",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 43,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q12",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q12_含钾钠氟铝酸盐晶胞投影.html",
+      "htmlSha256": "66f1ee0d86e2d267c9ce8436878eb62bcb95ff976946c14ceb962271f9f862e4",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 44,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q15",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q15_废催化剂中镧铈回收与草酸沉淀.html",
+      "htmlSha256": "560fbc1d4ee951a5d2fd7798d6da8b2e7caddff11df934026c3f573e5016b7f9",
+      "images": 7,
+      "uniqueImages": 5,
+      "mathml": 96,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q16",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q16_甘氨酸锌制备与EDTA含量测定.html",
+      "htmlSha256": "c16c2bf2560429bc5f50c642955488f7dfa70a90279fa369941072fa356823c2",
+      "images": 5,
+      "uniqueImages": 3,
+      "mathml": 70,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q17",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q17_丙烷脱氢制丙烯的工艺比较.html",
+      "htmlSha256": "5f35b8f022c92d5b9ae947c2c339e482e5c726c89ee9bf0ddb1a0c8019769ebc",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 113,
+      "tables": 1,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q18",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.6 以长郡5月劳动节假期试卷为主/P01-Q18_乙炔苯制有机酸与PMLA聚酯.html",
+      "htmlSha256": "ee2ffeaca70f94ba3e560b04c51d3e57c0fde8f2465cddf3d21680f508617d39",
+      "images": 21,
+      "uniqueImages": 13,
+      "mathml": 41,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q06",
+      "path": "常见无机物及其应用/卤素及其化合物/氯气的性质及用途/2026.5.6 以长郡5月劳动节假期试卷为主/P02-Q06_氯酸钾盐酸与氯气歧化转化.html",
+      "htmlSha256": "ed8d332d243c0ca8371d509f8ba772bb4dd7fbc709003d75f4506614e6c7dbf9",
+      "images": 16,
+      "uniqueImages": 7,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.6 以长郡5月劳动节假期试卷为主/P02-Q16_深海富钴结壳的金属分离回收.html",
+      "htmlSha256": "621e2b337dbb33578098b3f3f8d9d497eba59f7923888e7655c9b2c607b9c40c",
+      "images": 165,
+      "uniqueImages": 96,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.6 以长郡5月劳动节假期试卷为主/P02-Q17_抗肿瘤药前驱体的一锅法合成.html",
+      "htmlSha256": "165e3396695e25f9b0c52a8f5483b87fa9062028e1e0e0cc3e10c0a3716c8f01",
+      "images": 79,
+      "uniqueImages": 45,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P04-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.6 以长郡5月劳动节假期试卷为主/P04-Q01_大国重器中的高分子合金与能源.html",
+      "htmlSha256": "36b1deab27ebf217cd0c2bb131af2661fdde09a60968bec56bac844d7559d486",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P04-Q05",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2026.5.6 以长郡5月劳动节假期试卷为主/P04-Q05_含硼碳氧氟阴离子的元素性质.html",
+      "htmlSha256": "083636d995134b9f2409b66425a3a8bafbfae0fdf6abb1901e2ff8f6d80709c1",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P07-Q06",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2026.5.6 以长郡5月劳动节假期试卷为主/P07-Q06_四砷四硫分子的元素性质与杂化.html",
+      "htmlSha256": "be704d6180562057dccc9f62cc5ce9d694d13451665dcb2751067f503aa309ad",
+      "images": 5,
+      "uniqueImages": 5,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P12-Q08",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.6 以长郡5月劳动节假期试卷为主/P12-Q08_亚磷酸钠的氧化合成与减压提纯.html",
+      "htmlSha256": "5367845c93268a8b7370098ca8c98657c7a844c0d371fa55db12f0b7fbad057f",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P20-Q06",
+      "path": "化学反应原理/化学反应速率/化学反应的速率的定义、计算/2026.5.6 以长郡5月劳动节假期试卷为主/P20-Q06_平行反应的速率与产物比例.html",
+      "htmlSha256": "8f89f2d50908132050dbf23337bc5f6cba7768261975e2bb2210e1eee37f1684",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P22-Q08",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.6 以长郡5月劳动节假期试卷为主/P22-Q08_水钴矿制备电池添加剂氢氧化钴.html",
+      "htmlSha256": "a72838c6650f930d66efd4d4fca9a15ba954a218326b455047c840ccae83ae36",
+      "images": 6,
+      "uniqueImages": 6,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P26-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.6 以长郡5月劳动节假期试卷为主/P26-Q01_古商城冶铜、文物定年及修复材料.html",
+      "htmlSha256": "97b13abf31fd9685a8ea50027bbea42ba527343d1c5858701751d4d9d7439f38",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P28-Q07",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.6 以长郡5月劳动节假期试卷为主/P28-Q07_降压药中间体的氨基保护与羟基转化.html",
+      "htmlSha256": "e7e303a6c5802dba79e4c26a12f45812f73a3699d3d68bfd9aed204d41070877",
+      "images": 5,
+      "uniqueImages": 5,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P30-Q02",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/2026.5.6 以长郡5月劳动节假期试卷为主/P30-Q02_磷酸盐水解、核反应及酯化计数.html",
+      "htmlSha256": "37ffe4a3a0666e4f1533561f639c24f44bf15e97aa5c34900d6106f4efbedae3",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P30-Q06",
+      "path": "化学反应原理/化学平衡/化学平衡图像/2026.5.6 以长郡5月劳动节假期试卷为主/P30-Q06_二氧化碳加氢制乙烯的摩尔分数曲线.html",
+      "htmlSha256": "730de85d2e86777ed92b6e2b7cf8f753c639627d0ad03ab927f49c958db948ca",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P01-Q05",
+      "path": "物质结构与性质/分子结构与性质/配合物/2026.5.8/P01-Q05_铍铝化学相似性与晶体类型.html",
+      "htmlSha256": "d0be616c003766261bf83f735e205bd080de1cf97dfdb8aaa7fbc22e832d4138",
+      "images": 21,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P01-Q14",
+      "path": "物质结构与性质/分子结构与性质/配合物/2026.5.8/P01-Q14_乙酸与金属配位物种的分布.html",
+      "htmlSha256": "d2ac76e6387f30786e11bf990f286dddac31121a2314aa3817c22c9abec651ec",
+      "images": 50,
+      "uniqueImages": 34,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P01-Q15",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.8/P01-Q15_镍氨配合物制备及含量滴定.html",
+      "htmlSha256": "b20aceaa03b43bf9c2ca0099082cf0c31120db0bfcf28c831bf2bced9eb207d2",
+      "images": 62,
+      "uniqueImages": 33,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.8:P01-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.8/P01-Q16_钛铁矿制钛与乳酸亚铁.html",
+      "htmlSha256": "aaf20b15adb02ba47642c76b43f6899b9f596bcd95843780a83706060f628089",
+      "images": 115,
+      "uniqueImages": 47,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.8:P01-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.5.8/P01-Q17_屈他维林合成与芳香异构体.html",
+      "htmlSha256": "fd124f4783cf33e0694c88c22e4b0143e1de02a96c140c29efce974667355f05",
+      "images": 30,
+      "uniqueImages": 21,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.8:P01-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.8/P01-Q18_二氧化碳制烯烃与甲酸电合成.html",
+      "htmlSha256": "1fb1f39864d680a18ed8c2543de598f1c47aafb469dfe71e5cc7bf1f47dc144d",
+      "images": 75,
+      "uniqueImages": 54,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.8:P02-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.8/P02-Q01_湖南非遗与食品文物化学.html",
+      "htmlSha256": "e7cff48c8b8ae997438b3af4d85758d157bcacc8d70bf95ae3ae30c4c3ded686",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P02-Q06",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/2026.5.8/P02-Q06_二氧化碳制乙醇的粒子计数.html",
+      "htmlSha256": "580eefe54d38bdf869a3f78a46de62ab480aea066bb384a756a381e846bdacfd",
+      "images": 34,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P02-Q11",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.8/P02-Q11_工业亚硝酸钠制备和结晶提纯.html",
+      "htmlSha256": "1dd6a377a4b14059885636c28cec4c482e438915137afdeca54d81619a14c220",
+      "images": 17,
+      "uniqueImages": 12,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P02-Q15",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/2026.5.8/P02-Q15_摩尔盐制备与重铬酸盐滴定.html",
+      "htmlSha256": "ad2134389ee2009a83f89cde3cd7b34be93e866f8e4214e743beb1b737297114",
+      "images": 37,
+      "uniqueImages": 29,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.5.8:P02-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.8/P02-Q16_冶锌废料回收铟铋锗.html",
+      "htmlSha256": "2eba6fd94795bd211cc0810575f02260cc6095d3de35cb0a777a61d4b2affcbb",
+      "images": 108,
+      "uniqueImages": 76,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.8:P02-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.5.8/P02-Q18_二氧化碳甲烷化与选择性膜反应器.html",
+      "htmlSha256": "02ca12274a977727f334472f85ef65e67919d6a122cd813bd2b75575c0bece96",
+      "images": 49,
+      "uniqueImages": 34,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.5.8:P03-Q04",
+      "path": "认识化学科学/离子反应/离子反应及离子方程式/离子方程式的书写/2026.5.8/P03-Q04_沉淀转化与银饰还原方程式.html",
+      "htmlSha256": "f4dbd47a5f19756a98250926807f3c3cb3aa0199c8642d6b01898fbdc7d04df4",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P03-Q09",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.8/P03-Q09_铝硅酸盐中铍的萃取提纯.html",
+      "htmlSha256": "5c95ab5a32b5768d2c516007a9e0aedd5eb9cd28c54ec2606833c36df48c1b8f",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P04-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/2026.5.8/P04-Q01_非遗技艺中的材料与反应.html",
+      "htmlSha256": "76f3ff2f84cc392ee8c20c82557a2ed65c6b640ce954b0f376fe5d1854bf9ecf",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P04-Q07",
+      "path": "化学实验基础/物质的分离、提纯/2026.5.8/P04-Q07_离子交换树脂净水与检验.html",
+      "htmlSha256": "62ce150b70efb5af1ca13b3acec61a8103a52d9afa5e88b54296a1dd7e53aecc",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P04-Q15",
+      "path": "化学实验基础/常见物质的制备/常见有机物的制备/2026.5.8/P04-Q15_苯乙醚制备与萃取精制.html",
+      "htmlSha256": "f279c400325f6563a99064e200aca161ec0105f81c9510f45a41a7efab107996",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.5.8:P05-Q07",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2026.5.8/P05-Q07_氢氧碳氮元素推断.html",
+      "htmlSha256": "546f458bbf806a3902914b9833ce532f061c08c45cdf35c4e00388574d886c84",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P06-Q09",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/2026.5.8/P06-Q09_表面活性剂元素推断.html",
+      "htmlSha256": "5034d0f2009cc4ad7405ed0d769d2a5b95e5e9a6f86559752b6fa1d581fa53b0",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.5.8:P06-Q10",
+      "path": "化学实验基础/探究性实验/化学实验方案的设计与评价/2026.5.8/P06-Q10_实验现象与解释评价.html",
+      "htmlSha256": "ebc7ff3fa323e7d902f7328b6ecba578e973c78a3c16c87cd7f16f254519bb59",
+      "images": 3,
+      "uniqueImages": 3,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P01-Q11",
+      "path": "常见无机物及其应用/氧族元素及其化合物/硫酸/P01-Q11_黄铁矿制硫酸.html",
+      "htmlSha256": "7c79075b4e127b855a64ffd6fac5d7fff9ac2de689fe1bb02e023dfe8d3664be",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 9,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P01-Q18",
+      "path": "化学实验基础/物质的分离、提纯/P01-Q18_铬铁矿处理与氧化铬制备.html",
+      "htmlSha256": "2ba0a7ca35297ac06adfdfe73b4a3d5597dd82b34a447cb76e0d998427fd5a72",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 21,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.13:P02-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/P02-Q01_足球情境中的化学概念.html",
+      "htmlSha256": "686a8db445952d9bbd7a9509b7f7b2da6445f72e79a04ba16a54c78b8f9e1992",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P02-Q03",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/P02-Q03_镀银反应中的粒子与电子计数.html",
+      "htmlSha256": "df213591b520013ed782f3b8e868ce2b07f9fa3140b571474d960989e98990f9",
+      "images": 21,
+      "uniqueImages": 19,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P02-Q13",
+      "path": "化学反应原理/弱电解质的电离/电离平衡常数和电离度/P02-Q13_二元弱酸滴定与守恒关系.html",
+      "htmlSha256": "64e6026d2df4a16e42e5c1f87620080348989cffb1c9743188d2e38885102d99",
+      "images": 49,
+      "uniqueImages": 31,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P02-Q15",
+      "path": "化学实验基础/常见物质的制备/常见有机物的制备/P02-Q15_氯苯与六氨合钴化合物制备.html",
+      "htmlSha256": "d36879cdb818a164584038c5950b48da2a9863c595d6ba58e5cc806153049a4e",
+      "images": 46,
+      "uniqueImages": 28,
+      "mathml": 9,
+      "tables": 1,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.13:P03-Q02",
+      "path": "认识化学科学/化学用语/P03-Q02_电子式与VSEPR模型表示.html",
+      "htmlSha256": "89b5359b900e241395651bb70d274f8ede7296e9aff15762f180d99d4ed1ec36",
+      "images": 10,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P03-Q05",
+      "path": "认识化学科学/离子反应/离子反应及离子方程式/离子方程式的书写/P03-Q05_实验过程对应的离子方程式.html",
+      "htmlSha256": "7aa68f642de790a35dfa843aa601e01c173606305666f3b3cc5322162887d782",
+      "images": 24,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P03-Q16",
+      "path": "化学实验基础/物质的分离、提纯/P03-Q16_电池级碳酸锂制备.html",
+      "htmlSha256": "0e1718dd795f3bc4e80cb6d1c6d89dde962190bd03b45dbbd13c182ea334d9fe",
+      "images": 57,
+      "uniqueImages": 40,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.13:P03-Q18",
+      "path": "化学反应原理/化学平衡/化学平衡常数/P03-Q18_甘油重整制氢与电合成甘氨酸.html",
+      "htmlSha256": "5719f236e26a6fa4ef0e4aa44f3091569776c8a5f2bb84abcebf8ad27d99e651",
+      "images": 99,
+      "uniqueImages": 73,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 5
+    },
+    {
+      "key": "2026.6.13:P04-Q02",
+      "path": "认识化学科学/化学用语/P04-Q02_电子轨道与化学结构表示.html",
+      "htmlSha256": "3a5ea50ad8c18b0ce28c1e93e19cf58478e57f4bc48ffb50c971693151b67525",
+      "images": 20,
+      "uniqueImages": 16,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P04-Q07",
+      "path": "有机化学基础/烃的衍生物/糖类/P04-Q07_纤维素在碱性溶液中的溶解.html",
+      "htmlSha256": "8b37f7c281b91fbda25013456e9c50caa4b40c25ae8d37f242a21d26c14cf7be",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P05-Q01",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/P05-Q01_营养强化剂与生活用品.html",
+      "htmlSha256": "3634c32e1b30733cbd137c228631757f4fe359d147b095f84f145db57e509c22",
+      "images": 3,
+      "uniqueImages": 1,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P05-Q04",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/P05-Q04_阿伏加德罗常数与键数.html",
+      "htmlSha256": "6b7acaa59db7ff0e253331f323abd5f9b33996338c8d73c150db02ff7d8687c4",
+      "images": 33,
+      "uniqueImages": 22,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P05-Q07",
+      "path": "物质结构与性质/元素周期表 元素周期律/元素周期律/P05-Q07_增白剂结构与短周期元素推断.html",
+      "htmlSha256": "c07f04bfb1ddac40f02ee10cc96d4ceb2fd69bcbbdc7758df3107bccb52132f7",
+      "images": 19,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P05-Q16",
+      "path": "化学实验基础/物质的分离、提纯/P05-Q16_刻蚀废液回收铜化合物.html",
+      "htmlSha256": "4aa0c8413db9f75ec5546ffd4dbf4d764e8812644a22366a14b2ec331987f01b",
+      "images": 83,
+      "uniqueImages": 31,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.13:P05-Q17",
+      "path": "有机化学基础/有机物的合成与推断/P05-Q17_多奈哌齐合成与配合物结构.html",
+      "htmlSha256": "4aec0b7464b59ec3938d4f46e83bdac0df0077ac75a2d9422e0f77a271e738a3",
+      "images": 41,
+      "uniqueImages": 38,
+      "mathml": 1,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.6.13:P06-Q13",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/P06-Q13_铜催化炔烃合成循环.html",
+      "htmlSha256": "adb41778d72f71f17825641672cf14c784560366d29d2a6f46ce8b6067701a8f",
+      "images": 42,
+      "uniqueImages": 27,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P06-Q14",
+      "path": "物质结构与性质/分子结构与性质/配合物/P06-Q14_金属配离子的解离平衡图.html",
+      "htmlSha256": "40f8560c2818e5a4001e4830b8dbab014d8a7df46d760ad4935867ecfe1404b2",
+      "images": 48,
+      "uniqueImages": 34,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.13:P06-Q16",
+      "path": "化学实验基础/物质的分离、提纯/P06-Q16_三元锂电池镍皂化萃取回收.html",
+      "htmlSha256": "e18764a9ba7a1d310960bdac86b90943e73ad6c06ea0318b85a3e8bd9cb941b1",
+      "images": 100,
+      "uniqueImages": 49,
+      "mathml": 1,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.4:P01-Q02",
+      "path": "物质结构与性质/晶体结构与性质/常见几种晶体类型/2026.6.4/P01-Q02_单壁碳纳米管与金刚石.html",
+      "htmlSha256": "ab75fb0d6acb2759fe85508174de80e3d355cce32153891f65ff8a2e6feef4d6",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q15",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/2026.6.4/P01-Q15_亚硝酰氟与有机键数计量.html",
+      "htmlSha256": "9e2f9f6a8be7f076aa204bf5ed3a2e3759ab386b094a96cee2b899214b57006b",
+      "images": 43,
+      "uniqueImages": 30,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q24",
+      "path": "化学与STSE/化学与环境保护/2026.6.4/P01-Q24_烟气脱硝与次氯酸盐氧化.html",
+      "htmlSha256": "4f4d3b5dcc5ff7e3e8e35179d6862830e33a5170ec6908f611590b29bd3a54db",
+      "images": 11,
+      "uniqueImages": 7,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q37",
+      "path": "化学反应原理/化学电源/2026.6.4/P01-Q37_锂电池正极嵌入晶胞.html",
+      "htmlSha256": "3e37a4455417859dad89ddd17087184107e9b108d2c8791538c1c2a2b4d4a95a",
+      "images": 33,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q43",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.6.4/P01-Q43_缺陷氧化镍晶胞与导电性.html",
+      "htmlSha256": "f2845e40d62b78ccba64bfdc251577b1cdce4bd72a576b2b6ec44012a176a079",
+      "images": 22,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q47",
+      "path": "化学实验基础/物质的分离、提纯/2026.6.4/P01-Q47_含金烧渣浸出与金回收.html",
+      "htmlSha256": "0d8c8c8658fd0ff57e599d3b2636a843aec4ac7167ea30cf59ef61f0b51782b5",
+      "images": 35,
+      "uniqueImages": 20,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q49",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/2026.6.4/P01-Q49_二氧化碳电还原的竞争历程.html",
+      "htmlSha256": "d3d2b6886e5f30f32394839de0a13317440714e479b26185d3bf3e95698205a8",
+      "images": 13,
+      "uniqueImages": 9,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P01-Q57",
+      "path": "化学实验基础/物质的分离、提纯/2026.6.4/P01-Q57_锰钼矿联合冶金与沉镍.html",
+      "htmlSha256": "e88b2cba5b6bc9e6587c3242a205733abb4859c475ad1e02b8be65ed17b80424",
+      "images": 49,
+      "uniqueImages": 32,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.4:P01-Q58",
+      "path": "化学实验基础/物质的分离、提纯/2026.6.4/P01-Q58_废旧锂电池氢化与金属回收.html",
+      "htmlSha256": "f14b307ca14c54eb72f634f9d4263c76bc4f7db9ba5c9a5bbd26008244e66a7f",
+      "images": 56,
+      "uniqueImages": 38,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.6.4:P01-Q63",
+      "path": "化学实验基础/探究性实验/化学实验探究/2026.6.4/P01-Q63_锌与氯化铁分阶段反应探究.html",
+      "htmlSha256": "16938cf7441c2a7e3b12c2740aa23e5b238e9594c6bde9b257b67ee199f493c5",
+      "images": 44,
+      "uniqueImages": 16,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "2026.6.4:P01-Q64",
+      "path": "化学反应原理/弱电解质的电离/电离平衡常数和电离度/2026.6.4/P01-Q64_氢氟酸电离与极稀酸溶液.html",
+      "htmlSha256": "bace56406eec4d5fa09e969b5bf316511e705ef1d95092a7e3b48aaeb2953b61",
+      "images": 49,
+      "uniqueImages": 26,
+      "mathml": 0,
+      "tables": 2,
+      "subquestions": 9
+    },
+    {
+      "key": "2026.6.4:P01-Q69",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.6.4/P01-Q69_二氧化碳选择性加氢制甲醇.html",
+      "htmlSha256": "3bfda325798ba91a63b62085b7db8eb646895595d741a81f337cd4f6d8410faa",
+      "images": 75,
+      "uniqueImages": 67,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.6.4:P01-Q70",
+      "path": "化学反应原理/化学平衡/化学平衡常数/2026.6.4/P01-Q70_甲烷光催化氧化制乙醇.html",
+      "htmlSha256": "99b0f9f94d525309d7550e6a02ec5c17f71fe4eae02c9b0d510fee7dcb2f9df7",
+      "images": 71,
+      "uniqueImages": 41,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 6
+    },
+    {
+      "key": "2026.6.4:P02-Q12",
+      "path": "化学反应原理/沉淀溶解平衡/沉淀溶解平衡的应用/2026.6.4/P02-Q12_工业废料中镉锰的选择性沉淀.html",
+      "htmlSha256": "4a63ddcc12cf7a7697686e88ef54a80aac920ed4ae2e87266ca7fafa0173060e",
+      "images": 27,
+      "uniqueImages": 20,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P02-Q16",
+      "path": "化学实验基础/物质的分离、提纯/2026.6.4/P02-Q16_深海结核镍钴锰资源分离.html",
+      "htmlSha256": "d9c7b0154111252944cc05f1c7283a44799afad3f54e8c1d594e560b8ed7465a",
+      "images": 65,
+      "uniqueImages": 45,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "2026.6.4:P02-Q17",
+      "path": "有机化学基础/有机物的合成与推断/2026.6.4/P02-Q17_实体瘤潜在药物的合成.html",
+      "htmlSha256": "5e3934d82a907d6622cb4364a5ded2e485f3cdb4f5a191877dd81040b11db3a8",
+      "images": 29,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 7
+    },
+    {
+      "key": "2026.6.4:P03-Q05",
+      "path": "物质结构与性质/晶体结构与性质/晶体常识/2026.6.4/P03-Q05_氢化铝钠储氢晶胞.html",
+      "htmlSha256": "ce50ee8c297a069947dd79bb2cf3c7dda613e7c438e28fee1b9d5d0d702f628f",
+      "images": 34,
+      "uniqueImages": 23,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P03-Q09",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/2026.6.4/P03-Q09_苯溴化反应历程与能量.html",
+      "htmlSha256": "04dee6586544a137d8b468dde60b1edfb45274290c5774bd84b36c692206742b",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P04-Q08",
+      "path": "认识化学科学/氧化还原反应/氧化还原反应基本概念/2026.6.4/P04-Q08_高铁酸钠制备中的氧化还原.html",
+      "htmlSha256": "348396f54602239c4c4494997915b364636a9a6282e9df0e00f01753f89eaeec",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 1,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "2026.6.4:P05-Q13",
+      "path": "化学反应原理/化学反应速率/活化能/基元反应与反应历程/2026.6.4/P05-Q13_铜催化炔烃合成循环.html",
+      "htmlSha256": "779892fa18888c94c5d87295d9e0338534de4788bb2495f4f29d1e8ca46e6b07",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 1,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q12",
+      "path": "有机化学基础/合成有机高分子化合物/通用高分子材料/23-25 高考考题精编/P01-Q12_2023·河北卷 · 高分子材料在各个领域中得到广泛应用 · 通用高分子材料.html",
+      "htmlSha256": "db7429cdf3c7069633205d2cbe845fb8f207b2ceb8013096f9f8d17ee3fc82f6",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q33",
+      "path": "化学与STSE/化学科学对人类文明发展的意义/23-25 高考考题精编/P01-Q33_2023·广东卷 · 科教兴国，“可上九天揽月，可下五洋捉鳖” · 化学科学对人类文明发展的意义.html",
+      "htmlSha256": "8e0b5ef2e51123e5d4dd62008f0c0728db1b07f375818dca2bdc664d0aadc048",
+      "images": 8,
+      "uniqueImages": 5,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q42",
+      "path": "化学实验基础/物质的分离、提纯/23-25 高考考题精编/P01-Q42_2023·天津卷 · 明代《武备志》中记载了提纯硫黄的油煎法：“先将硫打豆粒样碎块，每 · 物质的分离、提纯.html",
+      "htmlSha256": "363d9bb344f041e39f4ec63bb14b565d935bde9763e78f53182e7dce418249c1",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q60",
+      "path": "认识化学科学/化学用语/23-25 高考考题精编/P01-Q60_2024· 湖南卷 · 化学用语.html",
+      "htmlSha256": "f7231db22f78e703829e171c9a103c5c9b8c335787016fb0e42b728d46c0dbfa",
+      "images": 15,
+      "uniqueImages": 12,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P02-Q09",
+      "path": "认识化学科学/物质的量/阿伏加德罗常数/23-25 高考考题精编/P02-Q09_2024·河北卷 · 超氧化钾可用作潜水或宇航装置的吸收剂和供氧剂，反应为，为阿伏加德 · 阿伏加德罗常数.html",
+      "htmlSha256": "5a53e40a3c2d1e746ca15fce9107086780c4c6ae562ee57c6e52d2108c55a8db",
+      "images": 38,
+      "uniqueImages": 25,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P03-Q27",
+      "path": "认识化学科学/氧化还原反应/氧化还原反应基本概念/23-25 高考考题精编/P03-Q27_2025·山东卷 · 氧化还原反应基本概念.html",
+      "htmlSha256": "0c40cfa2100600de2f9e32016a8be68008c479bd136f902be5e99fc20636d3f1",
+      "images": 0,
+      "uniqueImages": 0,
+      "mathml": 15,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P03-Q33",
+      "path": "认识化学科学/氧化还原反应/氧化还原反应的应用/氧化还原反应有关计算/23-25 高考考题精编/P03-Q33_2025·陕晋青宁卷 · 某元素的单质及其化合物的转化关系如图 · 氧化还原反应有关计算.html",
+      "htmlSha256": "39ebdc8d8704569cc3d18440c879e783084d99c73487f0b08f57be96b7bac470",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 4,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P04-Q14",
+      "path": "常见无机物及其应用/钠及其化合物/碳酸钠/23-25 高考考题精编/P04-Q14_2024·北京卷 · 碳酸钠.html",
+      "htmlSha256": "f1c266d53f40a32839aa3ac516e08795314bb06f725ac1e869efc85e503e912b",
+      "images": 35,
+      "uniqueImages": 14,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P05-Q08",
+      "path": "物质结构与性质/原子结构与性质/电离能 电负性/23-25 高考考题精编/P05-Q08_2025·广东卷 · 元素a~i为短周期元素，其第一电离能与原子序数的关系如图 · 电离能 电负性.html",
+      "htmlSha256": "02b2066de740c602a9604e8ca59850b9f97f45a572b93f41fabe78d79c15b376",
+      "images": 1,
+      "uniqueImages": 1,
+      "mathml": 3,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P10-Q48",
+      "path": "化学实验基础/探究性实验/化学实验方案的设计与评价/23-25 高考考题精编/P10-Q48_2025·湖北卷 · 化学实验方案的设计与评价.html",
+      "htmlSha256": "a85ef88cb12af5a4810417867b53f04b4f094ef273bfcb000639f8ba85df25ba",
+      "images": 4,
+      "uniqueImages": 4,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P10-Q53",
+      "path": "化学实验基础/探究性实验/化学实验方案的设计与评价/23-25 高考考题精编/P10-Q53_2024·黑吉辽卷 · 化学实验方案的设计与评价.html",
+      "htmlSha256": "bd8f21671c026cb4d3a12b9e27254792138b6c5ec58d5f296545cfce7d8899f6",
+      "images": 11,
+      "uniqueImages": 10,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P11-Q47",
+      "path": "有机化学基础/认识有机物/有机物的分类/有机官能团的性质及结构/23-25 高考考题精编/P11-Q47_2023·湖北卷 · 湖北蕲春李时珍的《本草纲目》记载的中药丹参，其水溶性有效成分之一 · 有机官能团的性质及结构.html",
+      "htmlSha256": "b81702da8c35cd49925786e6e8ac178767057d7051c65044b087e25d0ca1fe33",
+      "images": 2,
+      "uniqueImages": 2,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 0
+    },
+    {
+      "key": "23-25 高考考题精编:P12-Q20",
+      "path": "化学实验基础/物质的分离、提纯/23-25 高考考题精编/P12-Q20_2023·广东卷 · 均是重要的战略性金属 · 物质的分离、提纯.html",
+      "htmlSha256": "ba24a20b742642e87f6065c96e79629fdf4ffa8ad224503bb32620ff71d6fdbe",
+      "images": 102,
+      "uniqueImages": 46,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 6
+    },
+    {
+      "key": "23-25 高考考题精编:P13-Q03",
+      "path": "化学实验基础/常见物质的制备/常见无机物的制备/23-25 高考考题精编/P13-Q03_2025·安徽卷 · 侯氏制碱法以、和为反应物制备纯碱 · 常见无机物的制备.html",
+      "htmlSha256": "48d510a3a97fc34754a8d289a47aa2e2c4e0bc19b90b179939bb185ec66a26ad",
+      "images": 122,
+      "uniqueImages": 37,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "23-25 高考考题精编:P13-Q30",
+      "path": "化学反应原理/化学反应的热效应/反应热/中和热/23-25 高考考题精编/P13-Q30_2023·广东卷 · 化学反应常伴随热效应 · 中和热.html",
+      "htmlSha256": "bf9853478f8ca08a40031fd993cbfb0b90fed7b6f316ef59c7d4e374c58a9ad6",
+      "images": 94,
+      "uniqueImages": 43,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "23-25 高考考题精编:P13-Q32",
+      "path": "化学实验基础/探究性实验/化学实验探究/23-25 高考考题精编/P13-Q32_2023·北京卷 · 资料显示，可以将氧化为 · 化学实验探究.html",
+      "htmlSha256": "b6345fac1458cc9c32775a452ecaa9ad80f069794f600811dead4f5f1a620ac0",
+      "images": 104,
+      "uniqueImages": 33,
+      "mathml": 0,
+      "tables": 1,
+      "subquestions": 5
+    },
+    {
+      "key": "23-25 高考考题精编:P15-Q13",
+      "path": "物质结构与性质/23-25 高考考题精编/P15-Q13_2023·山东卷 · 卤素可形成许多结构和性质特殊的化合物 · 物质结构与性质.html",
+      "htmlSha256": "6a28fda196b819c1ac2226e852f7758196016db22f786dfbda20b9a6e9fba3fa",
+      "images": 122,
+      "uniqueImages": 51,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 3
+    },
+    {
+      "key": "23-25 高考考题精编:P16-Q34",
+      "path": "有机化学基础/有机物的合成与推断/23-25 高考考题精编/P16-Q34_2023·广东卷 · 室温下可见光催化合成技术，对于人工模仿自然界、发展有机合成新方法 · 有机物的合成与推断.html",
+      "htmlSha256": "1b3168eeeac4589b915a32bdde033c8b076b3a40f2abb4ee49a227919618dce3",
+      "images": 111,
+      "uniqueImages": 54,
+      "mathml": 0,
+      "tables": 2,
+      "subquestions": 5
+    },
+    {
+      "key": "23-25 高考考题精编:P16-Q37",
+      "path": "有机化学基础/有机物的合成与推断/23-25 高考考题精编/P16-Q37_2023·天津卷 · 二氧化碳的转化与综合利用是实现“碳达峰”“碳中和”战略的重要途径 · 有机物的合成与推断.html",
+      "htmlSha256": "9973bf83ab106801090e92ca49be2009db0c185b503bca6327e4121e22ce8aca",
+      "images": 66,
+      "uniqueImages": 18,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 8
+    },
+    {
+      "key": "23-25 高考考题精编:P16-Q38",
+      "path": "有机化学基础/有机物的合成与推断/23-25 高考考题精编/P16-Q38_2023·重庆卷 · 有机物K作为一种高性能发光材料，广泛用于有机电致发光器件(OLE · 有机物的合成与推断.html",
+      "htmlSha256": "4e5fab4694aff26baaef4d6c55727a1c6fd63057c025e63dee33160392704aef",
+      "images": 40,
+      "uniqueImages": 30,
+      "mathml": 0,
+      "tables": 0,
+      "subquestions": 6
+    }
+  ]
+}

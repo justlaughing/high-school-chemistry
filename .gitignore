@@ -4,3 +4,5 @@ __pycache__/
 运行状态.json
 *.log
 .tmp.*/
+build-state.json
+build.lock

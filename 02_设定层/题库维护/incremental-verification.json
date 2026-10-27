@@ -1,0 +1,20 @@
+{
+  "verified": true,
+  "files": 414,
+  "questions": 2431,
+  "imageByteHashes": 17255,
+  "rawHtmlRoundTrip": 2431,
+  "noopRewrittenFiles": 0,
+  "contentChangeFiles": [
+    "questions/72b7d9890529-d.json",
+    "manifest.json"
+  ],
+  "allHashesRestored": true,
+  "metadataChangeFiles": [
+    "catalog.json",
+    "题库工具/catalog.js",
+    "manifest.json"
+  ],
+  "seconds": 28.5,
+  "canonicalOnlyRebuild": true
+}

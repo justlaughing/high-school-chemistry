@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "tested": 2431,
+  "brokenImages": 0,
+  "textMismatches": [],
+  "mathMismatches": [],
+  "tableMismatches": [],
+  "benchmarks": [
+    {
+      "key": "2025.11.21版:P01-Q01",
+      "originalMs": 50,
+      "packedFirstMs": 45.3,
+      "packedRepeatMs": 10.3
+    },
+    {
+      "key": "2026.1.10:P01-Q01",
+      "originalMs": 16.8,
+      "packedFirstMs": 14,
+      "packedRepeatMs": 6.1
+    },
+    {
+      "key": "2026.3.9:P01-Q01",
+      "originalMs": 26.9,
+      "packedFirstMs": 26.2,
+      "packedRepeatMs": 8
+    },
+    {
+      "key": "2026.5.28:P01-Q01",
+      "originalMs": 27.9,
+      "packedFirstMs": 19.8,
+      "packedRepeatMs": 6.9
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q01",
+      "originalMs": 14.4,
+      "packedFirstMs": 25.9,
+      "packedRepeatMs": 9.4
+    },
+    {
+      "key": "2026.5.8:P01-Q01",
+      "originalMs": 21.8,
+      "packedFirstMs": 21.6,
+      "packedRepeatMs": 7.6
+    },
+    {
+      "key": "2026.6.13:P01-Q01",
+      "originalMs": 13.8,
+      "packedFirstMs": 12.8,
+      "packedRepeatMs": 6
+    },
+    {
+      "key": "2026.6.4:P01-Q01",
+      "originalMs": 14,
+      "packedFirstMs": 12.7,
+      "packedRepeatMs": 6.6
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q01",
+      "originalMs": 14,
+      "packedFirstMs": 16.1,
+      "packedRepeatMs": 10.9
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q16",
+      "originalMs": 149.2,
+      "packedFirstMs": 131.4,
+      "packedRepeatMs": 13.9
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q17",
+      "originalMs": 40.8,
+      "packedFirstMs": 31.1,
+      "packedRepeatMs": 15.8
+    },
+    {
+      "key": "2025.11.21版:P01-Q16",
+      "originalMs": 49.7,
+      "packedFirstMs": 35.8,
+      "packedRepeatMs": 9.8
+    }
+  ],
+  "environment": "本机127.0.0.1；浏览器会话首次读取及同会话复读；非公网测速",
+  "cacheStats": {
+    "imageBytes": 33520016,
+    "wholePackBytes": 0,
+    "imageCount": 3187,
+    "questionPackCount": 8,
+    "peakImageBytes": 33554431,
+    "peakWholePackBytes": 0,
+    "imageLimit": 33554432,
+    "packLimit": 16777216,
+    "pinnedAssets": 31
+  },
+  "timingSummary": {
+    "samples": 12,
+    "originalMedianMs": 26.9,
+    "packedFirstMedianMs": 25.9,
+    "packedRepeatMedianMs": 9.4,
+    "packedFirstP95Ms": 131.4
+  }
+}

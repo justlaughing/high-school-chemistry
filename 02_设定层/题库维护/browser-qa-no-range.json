@@ -1,0 +1,103 @@
+{
+  "passed": true,
+  "tested": 12,
+  "brokenImages": 0,
+  "textMismatches": [],
+  "mathMismatches": [],
+  "tableMismatches": [],
+  "benchmarks": [
+    {
+      "key": "2025.11.21版:P01-Q01",
+      "originalMs": 41.6,
+      "packedFirstMs": 70.9,
+      "packedRepeatMs": 7.9
+    },
+    {
+      "key": "2026.1.10:P01-Q01",
+      "originalMs": 17,
+      "packedFirstMs": 16.2,
+      "packedRepeatMs": 7.3
+    },
+    {
+      "key": "2026.3.9:P01-Q01",
+      "originalMs": 25.6,
+      "packedFirstMs": 88.5,
+      "packedRepeatMs": 7.3
+    },
+    {
+      "key": "2026.5.28:P01-Q01",
+      "originalMs": 20,
+      "packedFirstMs": 51.1,
+      "packedRepeatMs": 7
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q01",
+      "originalMs": 13.4,
+      "packedFirstMs": 18.1,
+      "packedRepeatMs": 9.6
+    },
+    {
+      "key": "2026.5.8:P01-Q01",
+      "originalMs": 19.8,
+      "packedFirstMs": 31,
+      "packedRepeatMs": 7.1
+    },
+    {
+      "key": "2026.6.13:P01-Q01",
+      "originalMs": 12.8,
+      "packedFirstMs": 11.1,
+      "packedRepeatMs": 6.1
+    },
+    {
+      "key": "2026.6.4:P01-Q01",
+      "originalMs": 13.3,
+      "packedFirstMs": 13,
+      "packedRepeatMs": 6
+    },
+    {
+      "key": "23-25 高考考题精编:P01-Q01",
+      "originalMs": 13.6,
+      "packedFirstMs": 15.2,
+      "packedRepeatMs": 9.9
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P02-Q16",
+      "originalMs": 150.4,
+      "packedFirstMs": 1413.2,
+      "packedRepeatMs": 13.5
+    },
+    {
+      "key": "2026.5.6 以长郡5月劳动节假期试卷为主:P01-Q17",
+      "originalMs": 41.3,
+      "packedFirstMs": 47.1,
+      "packedRepeatMs": 13.7
+    },
+    {
+      "key": "2025.11.21版:P01-Q16",
+      "originalMs": 41.9,
+      "packedFirstMs": 82,
+      "packedRepeatMs": 8.8
+    }
+  ],
+  "environment": "本机127.0.0.1；浏览器会话首次读取及同会话复读；非公网测速",
+  "expected": 12,
+  "mode": "整包回退代表题核验",
+  "cacheStats": {
+    "imageBytes": 1161375,
+    "wholePackBytes": 14529400,
+    "imageCount": 123,
+    "questionPackCount": 8,
+    "peakImageBytes": 1161375,
+    "peakWholePackBytes": 16723196,
+    "imageLimit": 33554432,
+    "packLimit": 16777216,
+    "pinnedAssets": 19
+  },
+  "timingSummary": {
+    "samples": 12,
+    "originalMedianMs": 20,
+    "packedFirstMedianMs": 47.1,
+    "packedRepeatMedianMs": 7.9,
+    "packedFirstP95Ms": 1413.2
+  }
+}
